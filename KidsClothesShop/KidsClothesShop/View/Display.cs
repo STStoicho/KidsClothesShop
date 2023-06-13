@@ -113,7 +113,7 @@ namespace KidsClothesShop.View
             Console.Write("Name: ");
             newProduct.Name = Console.ReadLine();
             Console.Write("Price: ");
-            newProduct.Price = int.Parse(Console.ReadLine());
+            newProduct.Price = double.Parse(Console.ReadLine());
             Console.Write("Size: ");
             newProduct.Size = int.Parse(Console.ReadLine());
             Console.Write("Gender: ");
@@ -145,7 +145,7 @@ namespace KidsClothesShop.View
             Console.Write("Name: ");
             newProduct.Name = Console.ReadLine();
             Console.Write("Price: ");
-            newProduct.Price = int.Parse(Console.ReadLine());
+            newProduct.Price = double.Parse(Console.ReadLine());
             Console.Write("Size: ");
             newProduct.Size = int.Parse(Console.ReadLine());
             Console.Write("Gender: ");

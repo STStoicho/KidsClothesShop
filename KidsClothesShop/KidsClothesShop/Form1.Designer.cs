@@ -206,7 +206,7 @@
             this.txb_Description.Location = new System.Drawing.Point(89, 313);
             this.txb_Description.Multiline = true;
             this.txb_Description.Name = "txb_Description";
-            this.txb_Description.Size = new System.Drawing.Size(268, 58);
+            this.txb_Description.Size = new System.Drawing.Size(292, 58);
             this.txb_Description.TabIndex = 16;
             // 
             // lbl_Description
@@ -246,9 +246,9 @@
             this.listbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.listbox.FormattingEnabled = true;
             this.listbox.ItemHeight = 16;
-            this.listbox.Location = new System.Drawing.Point(394, 15);
+            this.listbox.Location = new System.Drawing.Point(281, 15);
             this.listbox.Name = "listbox";
-            this.listbox.Size = new System.Drawing.Size(462, 356);
+            this.listbox.Size = new System.Drawing.Size(566, 292);
             this.listbox.TabIndex = 19;
             // 
             // Form1
